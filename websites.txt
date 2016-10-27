@@ -3,3 +3,5 @@ www.yahoomail.com
 www.gmail.com
 www.vit.ac.in
 www.reddit.com
+mail.google.com
+www.google.co.in
